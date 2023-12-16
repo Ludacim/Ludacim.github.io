@@ -1,0 +1,5 @@
+.class {color: rgb(250, 235, 215);}
+#id {color: rgb(0, 255, 255);}
+* {color: rgb(165, 42, 42);}
+a {background-color: powderblue;}
+a:hover {background-color: gold;}
