@@ -1,0 +1,7 @@
+#intro {background-color: rgb(102, 255, 204);}
+#enlace h2 {background-color: rgb(255, 255, 153);}
+#enlace2 h2 {background-color: rgb(255, 204, 255);}
+h2 {text-align: center;}
+#intro p {font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;}
+#enlace p {font-family: Arial, Helvetica, sans-serif;}
+#enlace2 p {font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
