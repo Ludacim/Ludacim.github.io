@@ -3,7 +3,7 @@ body  { background-color: 	rgb(0, 0, 0); }
 body  { color:	rgb(255, 255, 255); } 	
 h1 { font-weight:bolder;}
 h1:hover {background-color:rgb(255, 119, 51);}
-h1:hover {color:rgb(0, 0, 0);}
 #ol {color:rgb(112, 219, 219);}
 ol {outline-style: dashed; border-style: 5px; border-width: 5px; border-color: 5px;border-radius:5px;}
-.boton:hover {color:rgb(191, 128, 255);}
+h1:hover {color:rgb(191, 128, 255);}
+.boton {color:rgb(191, 128, 255);}
