@@ -1,0 +1,21 @@
+<!DOCTYPE html> 
+<html lang="es"> 
+<head> 
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+<title>Ejemplo uso de formularios y botones</title> 
+<script> 
+function funcionCualquiera() { 
+const valorIntroducido = document.getElementById("tuNombre").value; 
+alert("El valor introducido es: " + valorIntroducido + ". El tipo de dato es: " + typeof(valorIntroducido)); }
+</script>
+</head> 
+<body> 
+<form> 
+<label for="Damian">Introduce algún valor:</label> 
+<input type="text" id="tuNombre" name="Damian"> 
+<button type="button" onclick="funcionCualquiera()">ENVIAR</button> 
+</form> 
+<p> Como veréis si introducís un dato numérico, la función typof os dice que es un string, es decir una cadena de caracteres, por lo que tendréis que convertir en entero o en floar para poder trabajar numéricamente con estos valores. Esto ya lo hemos visto en prácticas anteriores </p>
+</body> 
+</html>
